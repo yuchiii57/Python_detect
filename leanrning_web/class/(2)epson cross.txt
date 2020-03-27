@@ -1,0 +1,7 @@
+SELECT  * FROM TBBID_CTOC  //產品
+
+SELECT Distinct  * FROM TBBID_REGPROD //標案
+
+SELECt * from TBBID_MAIN  //標案id
+
+SELECT * FROM TBBID_CTOC   //標案name
